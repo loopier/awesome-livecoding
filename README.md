@@ -303,6 +303,8 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [xi](https://github.com/xi-livecode) - A domain-specific language for Live Coding musical patterns in Ruby.
 
   `Windows | macOS | GNU/Linux` `Ruby` `SuperCollider` `FLOSS` `audio`
+  
+- [Živa](https://github.com/loopier/ziva) - Live coding in SuperCollider made easy, with quick system setup and syntax sugar.
 
 
 ## Libraries and tools
